@@ -1,8 +1,9 @@
 # Python diagrams practice
 
 ```bash
-pip install diagrams
+brew install graphviz
 ```
 
-anacondaであればgraphvizはすでに入っているはず。
-なければ別途インストールする。
+```bash
+pip install diagrams
+```

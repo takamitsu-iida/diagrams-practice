@@ -1,5 +1,8 @@
 # 自動生成にlibが含まれているのでコメントアウトすること
 
+# output image file
+*.png
+
 # vs code
 *.code-workspace
 
